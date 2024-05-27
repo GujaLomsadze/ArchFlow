@@ -3,7 +3,7 @@
 
 ### ArchFlow (Architecture Flow)
 
-### Tool for a Data Architecture Stress-Test and Dataflow Simulation using ABMs (Agent Based Modeling)
+### A Graph-Based Simulation Framework for Validating High-Load Scenarios in Microservice Architectures and Distributed Systems
 
 1) Why this Font and logo?
     - If you leave it ON, your device will drip a molten metal (Specially if your device has a plastic parts)
@@ -19,15 +19,14 @@
 
 ---
 
-#### Goal of this project basically here is to prove that mathematical analysis of an architecture is important (?!), rather then relying on a Solutions Architect's or someone's 6'th sense
-
+#### This project aims to develop a distributed and/or scalable solution (software/platform) which helps Data Architects and SAs to optimize their Architecture.
 ---
 
 ### List of Current Features
 - Simulation of Markovian random walk through a graph
 - Scalability Analysis
 - Identifying scalability needs
-- Predicting Bottlenecks (Kind of)
+- Predicting Bottlenecks (Visually)
 - Predicting System Failures
 - Visual Analytics Dashboard for data flow
 
