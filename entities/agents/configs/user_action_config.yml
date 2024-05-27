@@ -1,0 +1,23 @@
+defaults:
+
+  action_type:
+    - click
+    - transaction
+    - view
+
+  outcome:
+    - success
+    - failure
+    - null
+
+
+user_id_prefix: "user_"
+session_id_prefix: "session_"
+
+user_id_range:
+  min: 1000
+  max: 99999
+
+session_id_range:
+  min: 10000
+  max: 99999

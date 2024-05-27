@@ -1,0 +1,16 @@
+[Done] [1] Create plots of Hit-rate distribution on each "second" as a snapshot
+[Done] [2] Do analysis on hit-rate dist
+[In-Progress]   [3] Color-code edges and nodes based on pre-determined IO/PS, instead of hardcode [hard]
+                    [3**] Display Percentage on Bar Gauge chart ===> <CURRENT HIT> / <CAPACITY FROM PG>
+[Done] [5] Calculate number of critical links and come up with a metric to show "persistence" of a system
+
+
+
+[6] Integrate ChatGPT in this shit, interpret results live on Grafana and eget on with it
+
+
+
+
+
+
+[4] Add "is_storage" kind of column to the node_capacity information and calculate data saved per node.
